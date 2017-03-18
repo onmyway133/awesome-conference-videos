@@ -23,3 +23,4 @@
 - [MCE](https://www.youtube.com/channel/UCVmsyhkifdHTomiVlA11FgQ/feed)
 - [NSConf](https://vimeo.com/nsconf)
 - [Playground Conf](http://www.playgroundscon.com/)
+- [CocoaHeadsNL](https://vimeo.com/cocoaheadsnl)
