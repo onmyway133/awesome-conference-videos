@@ -24,3 +24,4 @@
 - [NSConf](https://vimeo.com/nsconf)
 - [Playground Conf](http://www.playgroundscon.com/)
 - [CocoaHeadsNL](https://vimeo.com/cocoaheadsnl)
+- [try! Swift](https://realm.io/news/try-swift/)
