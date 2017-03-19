@@ -25,6 +25,6 @@
 - [NSConf](https://vimeo.com/nsconf)
 - [Playground Conf](http://www.playgroundscon.com/)
 - [try! Swift](https://realm.io/news/try-swift/)
-- [CocoaHeadsNL](https://vimeo.com/cocoaheadsnl)
+- [CocoaHeads NL](https://vimeo.com/cocoaheadsnl)
 - [CocoaHeads Stockholm](https://vimeo.com/cocoaheadssthlm)
-- [Melbourne Cocoaheads](https://vimeo.com/melbournecocoa)
+- [Cocoaheads Melbourne](https://vimeo.com/melbournecocoa)
