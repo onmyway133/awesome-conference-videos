@@ -28,3 +28,5 @@
 - [CocoaHeads NL](https://vimeo.com/cocoaheadsnl)
 - [CocoaHeads Stockholm](https://vimeo.com/cocoaheadssthlm)
 - [Cocoaheads Melbourne](https://vimeo.com/melbournecocoa)
+- [NSBudapest](http://www.ustream.tv/channel/fusmzQX3Gu9)
+- [App Builder](https://www.youtube.com/channel/UC9hu86f3N9wJgLk7l8kxFeA)
