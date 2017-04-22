@@ -16,7 +16,7 @@
 - [Functional Swift](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
 - [Mobile Era](https://vimeo.com/mobileera/collections)
 - [Engineers.SG](https://engineers.sg/episodes/)
-- iOS Conference SG [2017](https://engineers.sg/conference/iosconfsg2016)
+- iOS Conference SG [2016](https://engineers.sg/conference/iosconfsg2016)
 - [Swift Summit](https://realm.io/news/swift-summit/)
 - [Cocoa Love](https://vimeo.com/cocoalove)
 - [NSSpain](https://vimeo.com/nsspain)
