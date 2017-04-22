@@ -7,8 +7,8 @@
 
 ## Swift
 
-- [WWDC](https://developer.apple.com/videos/)
-- [#pragma mark](https://www.youtube.com/user/pragmamark/playlists)
+- WWDC [2016](https://developer.apple.com/videos/wwdc2016)
+- pragma mark [2016](https://www.youtube.com/playlist?list=PLAVm70iJlMuvUMvfiU3rzqZpGnRuj0xjI)
 - [NSLondon](https://vimeo.com/nslondon)
 - [Seattle Xcoders](https://vimeo.com/seattlexcoders)
 - [AltConf](https://www.youtube.com/channel/UChiwrWoactp8mOs70j53zYw/playlists)
@@ -30,3 +30,4 @@
 - [Cocoaheads Melbourne](https://vimeo.com/melbournecocoa)
 - [NSBudapest](http://www.ustream.tv/channel/fusmzQX3Gu9)
 - [App Builder](https://www.youtube.com/channel/UC9hu86f3N9wJgLk7l8kxFeA)
+- iOS Conf [2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers)
