@@ -30,4 +30,4 @@
 - [Cocoaheads Melbourne](https://vimeo.com/melbournecocoa)
 - [NSBudapest](http://www.ustream.tv/channel/fusmzQX3Gu9)
 - [App Builder](https://www.youtube.com/channel/UC9hu86f3N9wJgLk7l8kxFeA)
-- iOS Conf [2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers)
+- iOS Conf [2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers#skillscasts)
