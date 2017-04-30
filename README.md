@@ -13,7 +13,7 @@
 - [Seattle Xcoders](https://vimeo.com/seattlexcoders)
 - [AltConf](https://www.youtube.com/channel/UChiwrWoactp8mOs70j53zYw/playlists)
 - [dotSwift](https://www.youtube.com/user/dotconferences/playlists)
-- [Functional Swift](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
+- Functional Swift [2015](http://2015.funswiftconf.com/) [2016](http://2016.funswiftconf.com/) [2017](http://2017.funswiftconf.com/)
 - [Mobile Era](https://vimeo.com/mobileera/collections)
 - [Engineers.SG](https://engineers.sg/episodes/)
 - iOS Conference SG [2016](https://engineers.sg/conference/iosconfsg2016)
