@@ -20,7 +20,7 @@
 - [Swift Summit](https://realm.io/news/swift-summit/)
 - [Cocoa Love](https://vimeo.com/cocoalove)
 - [NSSpain](https://vimeo.com/nsspain)
-- [UIKonf](https://www.youtube.com/user/UIKonf)
+- UIKonf [2016](https://www.youtube.com/playlist?list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k) [2017](https://www.youtube.com/playlist?list=PLdr22uU_wISqntV4tQmx9H6sj9gMtj7nG)
 - [MCE](https://www.youtube.com/channel/UCVmsyhkifdHTomiVlA11FgQ/feed)
 - [NSConf](https://vimeo.com/nsconf)
 - [Playground Conf](http://www.playgroundscon.com/)
