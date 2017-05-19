@@ -4,6 +4,7 @@
 
 - [pomo](http://www.pomo.tv/)
 - [Skilled](https://www.skilled.io/)
+- [Realm News](http://news.realm.io/news/) :rocket:
 
 ## Swift
 
