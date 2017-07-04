@@ -25,7 +25,7 @@
 - [MCE](https://www.youtube.com/channel/UCVmsyhkifdHTomiVlA11FgQ/feed)
 - [NSConf](https://vimeo.com/nsconf)
 - [Playground Conf](http://www.playgroundscon.com/)
-- [try! Swift](https://realm.io/news/try-swift/)
+- try! Swift Tokyo [2017](https://news.realm.io/news/conferences/try-swift-tokyo-2017/)
 - [CocoaHeads NL](https://vimeo.com/cocoaheadsnl)
 - [CocoaHeads Stockholm](https://vimeo.com/cocoaheadssthlm)
 - [Cocoaheads Melbourne](https://vimeo.com/melbournecocoa)
