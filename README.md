@@ -33,3 +33,4 @@
 - App Builder [2017](https://www.youtube.com/channel/UC9hu86f3N9wJgLk7l8kxFeA)
 - iOS Conf [2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers#skillscasts)
 - ADDC [2017](https://www.youtube.com/playlist?list=PLwR4QwnnbBuJbeU_7CTBzUQn9Z3C05Q_m)
+- React Native EU [2017](https://www.youtube.com/watch?v=453oKJAqfy0&list=PLzUKC1ci01h_hkn7_KoFA-Au0DXLAQZR7)
