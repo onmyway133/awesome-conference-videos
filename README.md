@@ -6,7 +6,7 @@
 - [Skilled](https://www.skilled.io/)
 - [Realm News](http://news.realm.io/news/) :rocket:
 
-## Swift
+## iOS
 
 - WWDC [2016](https://developer.apple.com/videos/wwdc2016)
 - pragma mark [2016](https://www.youtube.com/playlist?list=PLAVm70iJlMuvUMvfiU3rzqZpGnRuj0xjI)
@@ -36,3 +36,7 @@
 - [CocoaHeads Stockholm](https://vimeo.com/cocoaheadssthlm)
 - [Cocoaheads Melbourne](https://vimeo.com/melbournecocoa)
 - [Brooklyn Swift Developers Meetup](https://vimeo.com/bklnswift)
+
+## Android
+
+- droidcon NYC [2017](https://www.youtube.com/channel/UCSLXy31j2Z0sdDeeAX5JpPw/playlists)
