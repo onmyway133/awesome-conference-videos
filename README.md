@@ -40,3 +40,5 @@
 ## Android
 
 - droidcon NYC [2017](https://www.youtube.com/channel/UCSLXy31j2Z0sdDeeAX5JpPw/playlists)
+- droidcon Berlin [2017](https://www.youtube.com/watch?v=iczp_toHxmA&list=PL9Pfzam3fFddDjRJyE1UU3CuAdfGwGYeB)
+- droidcon Italy [2017](https://www.youtube.com/watch?v=-HTmPD38jwk&list=PL4ebO4PmeAi4MgpaaK9Hej0P6ooIhmfms)
