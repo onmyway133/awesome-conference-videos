@@ -11,7 +11,6 @@
 - WWDC [2016](https://developer.apple.com/videos/wwdc2016)
 - pragma mark [2016](https://www.youtube.com/playlist?list=PLAVm70iJlMuvUMvfiU3rzqZpGnRuj0xjI)
 - [NSLondon](https://vimeo.com/nslondon)
-- [Seattle Xcoders](https://vimeo.com/seattlexcoders)
 - [AltConf](https://www.youtube.com/channel/UChiwrWoactp8mOs70j53zYw/playlists)
 - [dotSwift](https://www.youtube.com/user/dotconferences/playlists)
 - Functional Swift [2015](http://2015.funswiftconf.com/) [2016](http://2016.funswiftconf.com/) [2017](http://2017.funswiftconf.com/) [Fall 2017](http://2017-fall.funswiftconf.com/)
@@ -32,10 +31,18 @@
 - ADDC [2017](https://www.youtube.com/playlist?list=PLwR4QwnnbBuJbeU_7CTBzUQn9Z3C05Q_m)
 - React Native EU [2017](https://www.youtube.com/watch?v=453oKJAqfy0&list=PLzUKC1ci01h_hkn7_KoFA-Au0DXLAQZR7)
 - FrenchKit [2017](http://frenchkit.fr/videos-frenchkit-2017/)
+- Øredev [2017](https://vimeo.com/oredev)
+
+Meetup
+
+- [Brooklyn Swift Developers Meetup](https://vimeo.com/bklnswift)
+- [Seattle Xcoders](https://vimeo.com/seattlexcoders)
+
+Cocoaheads
+
 - [CocoaHeads NL](https://vimeo.com/cocoaheadsnl)
 - [CocoaHeads Stockholm](https://vimeo.com/cocoaheadssthlm)
 - [Cocoaheads Melbourne](https://vimeo.com/melbournecocoa)
-- [Brooklyn Swift Developers Meetup](https://vimeo.com/bklnswift)
 
 ## Android
 
