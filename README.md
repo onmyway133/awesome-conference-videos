@@ -9,7 +9,7 @@
 ## iOS
 
 - WWDC [2016](https://developer.apple.com/videos/wwdc2016)
-- pragma mark [2016](https://www.youtube.com/playlist?list=PLAVm70iJlMuvUMvfiU3rzqZpGnRuj0xjI)
+- pragma mark [2016](https://www.youtube.com/playlist?list=PLAVm70iJlMuvUMvfiU3rzqZpGnRuj0xjI) [2017](https://www.youtube.com/watch?v=yiE1R0qd1Gg&list=PLAVm70iJlMuvrV8Ut6fDQN-_X5AhPFtux)
 - [NSLondon](https://vimeo.com/nslondon)
 - [AltConf](https://www.youtube.com/channel/UChiwrWoactp8mOs70j53zYw/playlists)
 - [dotSwift](https://www.youtube.com/user/dotconferences/playlists)
