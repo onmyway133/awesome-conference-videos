@@ -12,7 +12,7 @@
 - pragma mark [2016](https://www.youtube.com/playlist?list=PLAVm70iJlMuvUMvfiU3rzqZpGnRuj0xjI) [2017](https://www.youtube.com/watch?v=yiE1R0qd1Gg&list=PLAVm70iJlMuvrV8Ut6fDQN-_X5AhPFtux)
 - [NSLondon](https://vimeo.com/nslondon)
 - [AltConf](https://www.youtube.com/channel/UChiwrWoactp8mOs70j53zYw/playlists)
-- [dotSwift](https://www.youtube.com/user/dotconferences/playlists)
+- [dotSwift](https://www.youtube.com/user/dotconferences/playlists) [2018](https://www.dotconferences.com/conference/dotswift-2018)
 - Functional Swift [2015](http://2015.funswiftconf.com/) [2016](http://2016.funswiftconf.com/) [2017](http://2017.funswiftconf.com/) [Fall 2017](http://2017-fall.funswiftconf.com/)
 - Mobile Era [2016](https://vimeo.com/album/4242302) [2017](https://vimeo.com/channels/1309755)
 - [Engineers.SG](https://engineers.sg/episodes/)
