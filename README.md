@@ -25,7 +25,7 @@
 - [MCE](https://www.youtube.com/channel/UCVmsyhkifdHTomiVlA11FgQ/feed)
 - [NSConf](https://vimeo.com/nsconf)
 - [Playground Conf](http://www.playgroundscon.com/)
-- try! Swift Tokyo [2017](https://news.realm.io/news/conferences/try-swift-tokyo-2017/)
+- try! Swift Tokyo [2017](https://news.realm.io/news/conferences/try-swift-tokyo-2017/) [2018](https://www.youtube.com/watch?v=QJ3WG9kRLMo&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs)
 - try! Swift India [2017](https://www.youtube.com/watch?v=PM0NCE6iR5I&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6)
 - [NSBudapest](http://www.ustream.tv/channel/fusmzQX3Gu9)
 - App Builder [2017](https://www.youtube.com/channel/UC9hu86f3N9wJgLk7l8kxFeA)
