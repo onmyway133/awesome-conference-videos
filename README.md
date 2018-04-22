@@ -27,7 +27,7 @@
 - try! Swift Tokyo [2017](https://news.realm.io/news/conferences/try-swift-tokyo-2017/) [2018](https://www.youtube.com/watch?v=QJ3WG9kRLMo&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs)
 - try! Swift India [2017](https://www.youtube.com/watch?v=PM0NCE6iR5I&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6)
 - [NSBudapest](http://www.ustream.tv/channel/fusmzQX3Gu9)
-- App Builder [2017](https://www.youtube.com/channel/UC9hu86f3N9wJgLk7l8kxFeA)
+- App Builder [2017](https://www.youtube.com/channel/UC9hu86f3N9wJgLk7l8kxFeA) [2018](https://www.youtube.com/playlist?list=PLLcE3DL3f5BzR14FYTO9w0l5REVVSDNB4)
 - iOS Con [2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers#skillscasts) [2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers)
 - ADDC [2017](https://www.youtube.com/playlist?list=PLwR4QwnnbBuJbeU_7CTBzUQn9Z3C05Q_m)
 - React Native EU [2017](https://www.youtube.com/watch?v=453oKJAqfy0&list=PLzUKC1ci01h_hkn7_KoFA-Au0DXLAQZR7)
